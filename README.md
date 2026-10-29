@@ -2,7 +2,7 @@
 
 🎮 **Game Developer | Unity & C# | Learning C++**
 
-I'm a BCA student passionate about building games and developing my programming skills through hands-on projects.
+Passionate about building games and developing my programming skills through hands-on projects.
 
 - 🎮 Working with Unity and C#
 - 💻 Learning C++ and problem-solving
